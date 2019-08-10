@@ -17,5 +17,5 @@ Route::get('/', function () {
 
 
 Route::get('ali',function (){
-return 'a string';
+return 'a string in git hub';
 });
