@@ -14,7 +14,7 @@ if ($formfield == "firstname") {
 if (strlen($value) < 6) {
 echo "Password too short";
 } else {
-echo "<span>Strong</span>";
+echo "<span>Strongs</span>";
 }
 }
 // Check Valid or Invalid email when user enters email in email input field.
